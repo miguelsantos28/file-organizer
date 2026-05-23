@@ -1,4 +1,4 @@
-PASTA_ORIGEM = r"C:\Users\Usuario\Downloads\Teste"
+PASTA_ORIGEM = r"C:\Users\Usuario\Downloads"
 PASTA_LOG = r"C:\Users\Usuario\Desktop\file_organizer\logs"
 
 TIPOS = {
